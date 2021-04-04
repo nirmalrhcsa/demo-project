@@ -1,0 +1,6 @@
+# ignore all target directories
+target/
+
+
+# ignore all log files
+*.log
